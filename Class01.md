@@ -11,6 +11,12 @@ After completing this class session and the associated tutorial challenges, stud
 - Structure a test to archive your code quality objectives.
 - Write, read and run tests to ensure high durability of code base.
 
+### Initial Exercise
+In this exercise we’ll learn how to implement the TDD process by developing a simple command line calculator app from scratch with Node.js.
+- [Unit Testing with Mocha](https://www.taniarascia.com/unit-testing-in-javascript/)
+    - The application should add, subtract, divide, and multiply any two numbers.
+    - The application should display a warning and exit if it receives any input that does not consist of numbers.
+    - The system will provide a command line interface that allows the end users to utilize program functionality.
 
 ### Challenges
 Visit Make School's [Online Academy](https://www.makeschool.com/academy) to find the SPD 1.04 tutorial.

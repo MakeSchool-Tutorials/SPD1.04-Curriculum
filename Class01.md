@@ -11,46 +11,22 @@ After completing this class session and the associated tutorial challenges, stud
 - Structure a test to archive your code quality objectives.
 - Write, read and run tests to ensure high durability of code base.
 
-### Initial Exercise
+### Challenges
 In this exercise we’ll learn how to implement the TDD process by developing a simple command line calculator app from scratch with Node.js.
 - [Unit Testing with Mocha](https://www.taniarascia.com/unit-testing-in-javascript/)
     - The application should add, subtract, divide, and multiply any two numbers.
     - The application should display a warning and exit if it receives any input that does not consist of numbers.
     - The system will provide a command line interface that allows the end users to utilize program functionality.
 
-### Challenges
-Visit Make School's [Online Academy](https://www.makeschool.com/academy) to find the SPD 1.04 tutorial.
-
-These challenges are the baseline required to complete the project and course.
-Be sure to complete these before next class session and before starting on the stretch challenges below.
-- [Page 1: Let’s Get Started]
-    - Python scripts and modules
-    - Rearrange words script
-- [Page 2: Random Dictionary Words]
-    - Generate random dictionary words
-    - Benchmark and optimize for speed
-
 ### Stretch Challenges
-These challenges are more difficult and help you push your skills and understanding to the next level. They are often found in the "Where to Go From Here" section at the bottom of most tutorial pages, although a few bonus challenges are only included here.
-- [Page 1: Let’s Get Started]
-    - Reverse words/sentences
-    - Interactive mad libs game
-    - Simple anagram generator
-- [Page 2: Random Dictionary Words]
-    - Vocabulary study game
-    - Autocomplete program
-    - Real word anagram generator
-- Bonus challenges
-    - Write a script that imitates [`cowsay`](https://en.wikipedia.org/wiki/Cowsay) – install with `brew install cowsay`
-    - Write your own shuffle function or implement the [Fisher–Yates shuffle](https://bost.ocks.org/mike/shuffle/)
+These challenges are more difficult and help you push your skills and understanding to the next level. 
+- [Unit Testing with Mocha & Chain](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)
+    - Create a Test runner
+    - The basic test building blocks 
+    - Running test in the browser 
 
 ### Resources
-- Make School's [OOP coding challenge](http://hr.gs/ooptest) – covers classes, inheritance, and polymorphism
-- Code School's [Python tutorial](https://www.codeschool.com/courses/try-python) – gentle introduction with strings and conditionals
-- HackerRank's [Python challenges](https://www.hackerrank.com/domains/python/py-introduction) – try the basic data types and strings sections
-- Interview Cake's [in-place shuffle interview problem](https://www.interviewcake.com/question/python/shuffle) – with helpful detailed hints
-- Google's [Python class](https://developers.google.com/edu/python/) – includes lecture videos and lots of practice exercises
-
-
-[Page 1: Let’s Get Started]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/let-s-get-started
-[Page 2: Random Dictionary Words]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/random-dictionary-words-0f05439f-f238-4cb7-9be4-535aefaf0f2f
+-  Hubstaff Blog [Why should I write unit test](https://blog.hubstaff.com/why-you-should-write-unit-tests/) 
+- CodeUtopia [What's the difference between unit test, BDD, and TDD?](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
+- Geeks for Geeks [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
+- Guru 99 [Introduction to Software Testing](https://www.guru99.com/software-testing-introduction-importance.html)

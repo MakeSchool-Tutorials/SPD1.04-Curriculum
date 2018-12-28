@@ -1,4 +1,4 @@
-## Class 1: Types of testing - unit, end to end, harness tests.
+## Class 2: Testing tools - mocha, chai, chaiHttp, pytest.
 
 ### Activity
 - Review prerequisite skills and knowledge

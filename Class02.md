@@ -14,9 +14,9 @@ After completing this class session and the associated tutorial challenges, stud
 ### Challenges
 There are many great resources to help learn how to develop and utilize tests in your applications. We will use this tutorial for this section of the SPD course.
 - [Unit Testing with Pytest](https://github.com/BriantOliveira/SPD1.04-Curriculum/blob/master/source/02.md)
-    - Automated Test Vs. Manual Test
-    - Unit Test Vs. Integrated Test
-    - Choosing a Test runner 
+    - Testing your code
+    - Writing your firts test
+    - Executing your first test
 
 ## Stetch Challenges
 - If you want to see how you can implement testing in your web frameworks, you can complete this section of the tuorial. [Testing for Web Frameworks Like Django and Flask](https://realpython.com/python-testing/#testing-for-web-frameworks-like-django-and-flask)

@@ -27,3 +27,12 @@ There are many great resources to help learn how to develop and utilize tests in
 
 - [Automating the Execution of Your Tests](https://realpython.com/python-testing/#automating-the-execution-of-your-tests). Whaaaaaat? 🤩
 
+## Resources
+- [A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d)
+- [Mocha Documentation](https://mochajs.org/)
+- [Automated Testing with Mocha — Guide for Testing Javascript Apps](https://blog.usejournal.com/https-medium-com-thisisabdus-automated-testing-with-mocha-beginners-guide-for-testing-javascript-apps-45aa67dc3352)
+- [React Unit Testing with Mocha and Enzyme](https://medium.freecodecamp.org/react-unit-testing-with-mocha-and-enzyme-77d18b6875cb)
+- [How to test JavaScript with Mocha — The Basics](https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e)
+- [Build a Unit-Testing Suite with Mocha and Mongoose](https://blog.bitsrc.io/build-a-unit-testing-suite-with-mocha-and-mongoose-eba06c3b3625)
+- [A complete list of articles on Unit Testing with Swift from 2017](https://medium.com/flawless-app-stories/a-complete-list-of-articles-on-unit-testing-with-swift-from-2017-9be8f046ef25)
+- [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/709-ios-unit-testing-and-ui-testing-tutorial)

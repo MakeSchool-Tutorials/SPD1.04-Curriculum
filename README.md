@@ -12,7 +12,7 @@
 |   1   | Monday, January 22nd  |[Types of testing](https://github.com/BriantOliveira/SPD1.04-Curriculum/blob/master/Class01.md)                                        |
 |   2   |                       |[Testing Tools](https://github.com/BriantOliveira/SPD1.04-Curriculum/blob/master/Class02.md)                                         |
 |   3   |                       |                                          |
-|   4   |                       |                                          |
+|   4   |                       |[Software Craftsmanship intro](https://github.com/BriantOliveira/SPD1.04-Curriculum/blob/master/Class04.md)                                       |
 |   5   |                       |                                          |
 |   6   |                       |                                          |
 |   7   |                       |                                          |

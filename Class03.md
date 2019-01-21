@@ -27,4 +27,7 @@ These challenges are more difficult and help you push your skills and understand
 ### Resources
 - [Robot Framework Automation Step by Step video](https://www.youtube.com/watch?v=8h5knh2jLCA) 
 - [Excelling with Sinon.js](https://medium.com/building-ibotta/excelling-with-sinon-js-be35b974b75e)
+- [The Differences Between Testing and Debugging](https://medium.com/@testautomation/the-differences-between-testing-and-debugging-50882cd5fbbb)
+- [7 Fundamental Principles of Software Testing](https://medium.com/@testautomation/7-fundamental-principles-of-software-testing-49dca70d0d4f)
+- [Software Testing Life Cycle VS Software Development Life Cycle](https://medium.com/@testautomation/software-testing-life-cycle-vs-software-development-life-cycle-76bd7cbaf28e)
 

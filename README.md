@@ -9,8 +9,8 @@
 
 | Class |         Date          |                  Topics                  |
 |:-----:|:---------------------:|:----------------------------------------:|
-|   1   | Monday, January 22nd  |                                          |
-|   2   |                       |                                          |
+|   1   | Monday, January 22nd  |[Types of testing](https://github.com/BriantOliveira/SPD1.04-Curriculum/blob/master/Class01.md)                                        |
+|   2   |                       |[Testing Tools](https://github.com/BriantOliveira/SPD1.04-Curriculum/blob/master/Class02.md)                                         |
 |   3   |                       |                                          |
 |   4   |                       |                                          |
 |   5   |                       |                                          |

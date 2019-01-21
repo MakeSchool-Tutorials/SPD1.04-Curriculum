@@ -11,8 +11,9 @@ After completing this class session and the associated tutorial challenges, stud
 - Students should be able to understand which frameworks should be benefitial to their projects.
 - Write, read and run tests to ensure high durability of code base.
 
-### Challenges
-In this activity we will read and dicuss the importance of Harness testing, also we will review the framework syntax before implementing it to our codebase. 
+### Activities
+In this activity we will read and dicuss the importance of Harness testing, also we will review the framework syntax before implementing it to our codebase.
+- [Why should you Automate test](https://www.guru99.com/automation-testing.html)
 - [Robot Framework Starter Guide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
     - Test Cases Organization.
     - Robot Framework Keywords and Variables.

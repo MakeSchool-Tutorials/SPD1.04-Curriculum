@@ -29,3 +29,4 @@ These challenges are more difficult and help you push your skills and understand
 - [Code Complete book notes](https://github.com/mgp/book-notes/blob/master/code-complete.markdown)
 - Hackernoon [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 - [Types of Software Architects](https://medium.com/@nvashanin/types-of-software-architects-aa03e359d192)
+- [Software Development Life Cycle](https://medium.com/@testautomation/software-development-life-cycle-65f7dd67c8de)

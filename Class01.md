@@ -26,7 +26,9 @@ These challenges are more difficult and help you push your skills and understand
     - Running test in the browser 
 
 ### Resources
--  Hubstaff Blog [Why should I write unit test](https://blog.hubstaff.com/why-you-should-write-unit-tests/) 
-- CodeUtopia [What's the difference between unit test, BDD, and TDD?](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
-- Geeks for Geeks [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
-- Guru 99 [Introduction to Software Testing](https://www.guru99.com/software-testing-introduction-importance.html)
+-  [Why should I write unit test](https://blog.hubstaff.com/why-you-should-write-unit-tests/) 
+- [What's the difference between unit test, BDD, and TDD?](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
+- [Understanding Chai.js Language Mechanics](https://medium.com/building-ibotta/understanding-chai-js-language-mechanics-cc28e4c9604b)
+- [Testing Arrays and Objects with Chai.js](https://medium.com/building-ibotta/understanding-chai-js-language-mechanics-cc28e4c9604b)
+- [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
+- [Introduction to Software Testing](https://www.guru99.com/software-testing-introduction-importance.html)

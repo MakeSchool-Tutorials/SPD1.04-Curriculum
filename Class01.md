@@ -2,7 +2,7 @@
 
 ### Activity
 - Review prerequisite skills and knowledge
-- Discuss course focus and project goals in SPD 1.04 intro slides
+- Discuss course focus and project goals in [SPD 1.04 intro slides](https://docs.google.com/presentation/d/1XptKYOhFxuw4LqqwNAcoUEeiyZH20gZG4IDw8Y3fbHQ/edit?usp=sharing)
 - Show examples 
 
 ### Objectives

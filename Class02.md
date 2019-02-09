@@ -3,6 +3,7 @@
 ### Activity
 - Introducing various testing tools
 - Build you first pytest.
+- [Unit test slides](https://docs.google.com/presentation/d/1lU48DFpFWJkwLT11Vn-H4ZjhwEIU2uTKJwbJOdk2VcI/edit?usp=sharing)
 - Show examples 
 
 ### Objectives
